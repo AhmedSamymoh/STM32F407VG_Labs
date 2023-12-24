@@ -54,7 +54,7 @@ typedef unsigned long        uint32_t;
 /* ------------- Section: Macro Functions Declarations ------------- */
 
 /**
-• I2C1 (PB6/PB7) • I2C2 (PB10/PB3) • I2C3 (PA8/PB4)
+â€¢ I2C1 (PB6/PB7) â€¢ I2C2 (PB10/PB3) â€¢ I2C3 (PA8/PB4)
 */
 
 /* peripheral clock enable to Configure @I2C1*/
@@ -91,6 +91,7 @@ uint8_t I2C1_Read();
 void beginTransmission(int address);
 void I2C1_endTransmission(void);
 void I2C1_end(void);
+void requestFrom(uint8_t address, uint8_t quantity, uint8_t array[], uint8_t size);
 void I2C1_enableNoiseFilter(uint8_t DNF);
 
 
