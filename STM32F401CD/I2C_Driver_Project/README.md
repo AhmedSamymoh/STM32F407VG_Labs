@@ -14,3 +14,5 @@ The project is structured into the following directories:
 - **INTER-INTEGRATED CIRCUIT (I2C).pdf**: Documentation related to the I2C protocol.
 - **main.c**: Main application file demonstrating the usage of the I2C driver.
 
+
+![Project Image](picture.png)
