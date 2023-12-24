@@ -14,6 +14,3 @@ Watch the project presentation video [here](https://drive.google.com/drive/u/0/f
 - **INTER-INTEGRATED CIRCUIT (I2C).pdf**: Documentation related to the I2C protocol.
 - **main.c**: Main application file demonstrating the usage of the I2C driver.
 
-## Presentation Video
-
-
