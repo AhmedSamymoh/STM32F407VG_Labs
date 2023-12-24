@@ -11,7 +11,7 @@ The project is structured into the following directories:
 - **Presentation**: A presentation providing an overview of the I2C protocol and the project details.
 - Watch the project presentation video [here](https://drive.google.com/drive/u/0/folders/1DnuolwINRnWAq0GdL3hvUC3xwWeP3Zl5).
 - **STM32F401xx Reference manual.pdf**: Reference manual for the STM32F401CD microcontroller.
-- **INTER-INTEGRATED CIRCUIT (I2C).pdf**: Documentation related to the I2C protocol.
+- **Inter Integrated Circuit (I2C) Protocol Review.pdf**: Documentation related to the I2C protocol.
 - **main.c**: Main application file demonstrating the usage of the I2C driver.
 
 
