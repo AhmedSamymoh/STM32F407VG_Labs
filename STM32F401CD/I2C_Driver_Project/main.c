@@ -1,5 +1,5 @@
-#include "GPIO.h"
-#include "I2C.h"
+#include "inc/GPIO.h"
+#include "inc/I2C.h"
 
 int main() {
     GPIO_InitPin(PORT_A, 1, OUTPUT);
@@ -15,7 +15,7 @@ int main() {
             if (receivedData == 0x01) {
                     GPIO_DigitalWrite(PORT_A ,0, HIGH);
                     Delay_us(3000);
-                    GPIO_DigitalWrite(PORT_A ,0, HIGH);
+                    GPIO_DigitalWrite(PORT_A ,0, LOW);
                     Delay_us(3000);
             }
         }
