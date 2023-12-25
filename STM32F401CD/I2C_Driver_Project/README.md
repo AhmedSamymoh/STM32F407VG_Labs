@@ -15,4 +15,4 @@ The project is structured into the following directories:
 - **main.c**: Main application file demonstrating the usage of the I2C driver.
 
 
-![team](pic.png)
+![team](picture.png)
