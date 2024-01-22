@@ -1,8 +1,4 @@
 # STM32F407VG_Labs
-comprehensive labs undertaken at the Faculty of Engineering, Alexandria University. Each lab includes practical exercises and projects focusing on embedded systems using STM32 microcontrollers. 
-
-
-# STM32F407VG_Labs
 
 Welcome to the STM32F407VG Labs repository from the Faculty of Engineering, Alexandria University. This repository features a series of comprehensive labs, each comprising practical exercises and projects centered around embedded systems using STM32 microcontrollers.
 
