@@ -15,10 +15,3 @@ Welcome to the STM32F407VG Labs repository from the Faculty of Engineering, Alex
 3. **STM32F401CD/I2C_Driver_Project**
    - Explore I2C driver projects for the STM32F401CD microcontroller.
 
-## Supplementary Materials
-
-- **Kit.jpg**
-  - Visual reference for the hardware kit used in these labs.
-
-- **STM32F407VG_Datasheet.pdf**
-  - Supplementary datasheet for the STM32F407VG microcontroller.
